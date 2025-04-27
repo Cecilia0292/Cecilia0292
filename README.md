@@ -10,8 +10,8 @@ Seja bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos, ideias 
 - 💡 Interesses: Análises de Dados, desenvolvimento web, desenvolvimento mobile e games.
 - 💬 Vamos conversar? Me mande uma mensagem sobre algum desses assuntos para trocarmos ideias.
 - 📫 Como me encontrar:
-- 📧 Email: [loureiro.ruthe@gmail.com](mailto:seuemail@example.com)
-- 🔹 LinkedIn: [Ruthe cecilia](https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/ruthe-cecilia-lou/)
+- 📧 Email: [loureiro.ruthe@gmail.com](mailto:loureiro.ruthe@gmail.com)
+- 🔹 LinkedIn: [Ruthe cecilia](https://www.linkedin.com/in/ruthe-cecilia-lou/)
 
 
 ## 🛠️ Tecnologias e Ferramentas
