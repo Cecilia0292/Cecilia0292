@@ -8,8 +8,8 @@ Seja bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos, ideias 
 
 ## 🚀 Sobre mim
 
-- 🌱 Atualmente estou aprendendo as linguagens Python e JavaScript.  
-- 💡 Interesses: Análises de Dados, desenvolvimento web, desenvolvimento mobile e games.  
+
+- 💡 Interesses: BackEnd, Análises de Dados, desenvolvimento web, desenvolvimento mobile e games.  
 - 💬 Vamos conversar? Me mande uma mensagem sobre algum desses assuntos para trocarmos ideias.  
 - 📫 Como me encontrar:  
   - 📧 Email: [loureiro.ruthe@gmail.com](mailto:loureiro.ruthe@gmail.com)  
