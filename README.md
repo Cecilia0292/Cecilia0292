@@ -53,9 +53,11 @@ Aqui estão algumas das tecnologias que eu gosto de usar:
 
 Se você quiser conhecer mais sobre meu trabalho, confira alguns dos meus projetos favoritos:
 
-- 🔹 [DataSciencelojasAlura](https://github.com/Cecilia0292/DataScienceLojaAlura)  
-- 🔹 [nomeprojeto](link)
+Análise de Dados
 
+- 🔹 [DataSciencelojasAlura](https://github.com/Cecilia0292/DataScienceLojaAlura)  
+- 🔹 [Telecom X – Análise de Evasão de Clientes-Parte1](https://github.com/Cecilia0292/TelecomX_Parte1)
+- 🔹 [Telecom X – Análise de Evasão de Clientes com Modelos Preditivos-Parte2](https://github.com/Cecilia0292/TelecomX_Parte2)
 ---
 
 ## 💡 Curiosidades
