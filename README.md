@@ -27,10 +27,15 @@ Esse programa tem sido uma oportunidade incrível para desenvolver habilidades t
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 - ☕ **Java**: Programação orientada a objetos, boas práticas e desenvolvimento backend  
 - 🌐 **Angular**: Criação de interfaces web modernas e responsivas  
 - 🌱 **Spring Boot**: Desenvolvimento de APIs RESTful com foco em produtividade e escalabilidade
+- 🐍 **Python**: Análise de Dados
+- 🗃️ **SQL**: Manipulação e consulta de bancos de dados relacionais
 
 ---
 
