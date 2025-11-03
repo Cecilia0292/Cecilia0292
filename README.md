@@ -55,7 +55,7 @@ Se você quiser conhecer mais sobre meu trabalho, confira alguns dos meus projet
 
 Análise de Dados
 
-- 🔹 [DataSciencelojasAlura](https://github.com/Cecilia0292/DataScienceLojaAlura)  
+- 🔹 [Análise de Eficiência das Lojas - Alura Store](https://github.com/Cecilia0292/DataScienceLojaAlura)  
 - 🔹 [Telecom X – Análise de Evasão de Clientes-Parte1](https://github.com/Cecilia0292/TelecomX_Parte1)
 - 🔹 [Telecom X – Análise de Evasão de Clientes com Modelos Preditivos-Parte2](https://github.com/Cecilia0292/TelecomX_Parte2)
 ---
