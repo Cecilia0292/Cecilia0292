@@ -20,7 +20,6 @@ Seja bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos, ideias 
 ## 🎓 Participando do +Devs2Blu - JAVA (5ª Edição - Blumenau)
 
 Atualmente estou participando da **5ª edição do programa +Devs2Blu - JAVA**, realizado em Blumenau/SC.  
-Esse programa tem sido uma oportunidade incrível para desenvolver habilidades técnicas e colaborar com outros talentos da área.
 
 ### 🛠️ Tecnologias em foco:
 
