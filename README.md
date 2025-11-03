@@ -54,7 +54,7 @@ Aqui estão algumas das tecnologias que eu gosto de usar:
 Se você quiser conhecer mais sobre meu trabalho, confira alguns dos meus projetos favoritos:
 
 - 🔹 [DataSciencelojasAlura](https://github.com/Cecilia0292/DataScienceLojaAlura)  
-- 🔹 [Sorteio Amigo Secreto](https://github.com/Cecilia0292/Curso-One-Amigo-secreto)
+- 🔹 [nomeprojeto](link)
 
 ---
 
