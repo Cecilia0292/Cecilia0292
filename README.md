@@ -9,17 +9,13 @@ Seja bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos, ideias 
 ## 🚀 Sobre mim
 
 
-- 💡 Interesses: BackEnd, Análises de Dados, desenvolvimento web, desenvolvimento mobile e games.  
+- 💡 Interesses: Análises de Dados, desenvolvimento web/mobile e IA.
 - 💬 Vamos conversar? Me mande uma mensagem sobre algum desses assuntos para trocarmos ideias.  
 - 📫 Como me encontrar:  
   - 📧 Email: [loureiro.ruthe@gmail.com](mailto:loureiro.ruthe@gmail.com)  
   - 🔹 LinkedIn: [Ruthe Cecilia](https://www.linkedin.com/in/ruthe-cecilia-lou/)
 
 ---
-
-## 🎓 Participando do +Devs2Blu - JAVA (5ª Edição - Blumenau)
-
-Atualmente estou participando da **5ª edição do programa +Devs2Blu - JAVA**, realizado em Blumenau/SC.  
 
 ### 🛠️ Tecnologias em foco:
 
