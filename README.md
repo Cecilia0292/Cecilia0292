@@ -64,7 +64,7 @@ Front-end
 
 🔹 [Sistema de Gerenciamento Lar de Idosos](https://github.com/Cecilia0292/geri-mais)
 
-🔹 [Plataforma Consciência Ativa](https://github.com/Cecilia0292/uso-eficiente-recursos-e-alimentos)
+🔹 [Organiza.](https://github.com/Cecilia0292/organiza.)
 
 ---
 
